@@ -1,5 +1,7 @@
 # Project Documentation
 
+Role - Frontend Developer (React + TypeScript)
+
 ## Thought Process
 
 Here's a detailed walkthrough of my thought process and the steps I took during the development:
